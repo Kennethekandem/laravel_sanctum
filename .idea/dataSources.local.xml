@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="laravel_sanctum@localhost" uuid="f42ebdb7-acc6-4ced-bfeb-1e69a3330039">
+      <database-info product="MySQL" version="8.0.16" jdbc-version="4.2" driver-name="MariaDB Connector/J" driver-version="2.6.0" dbms="MYSQL" exact-version="8.0.16" exact-driver-version="2.6">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <introspection-schemas>*:@</introspection-schemas>
+    </data-source>
+  </component>
+</project>
